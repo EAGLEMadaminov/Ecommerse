@@ -3,7 +3,7 @@ function UniqueProduct({ params }) {
 
   return (
     <div>
-      <p>{id}</p>
+      <p></p>
     </div>
   );
 }
